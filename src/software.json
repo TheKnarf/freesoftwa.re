@@ -1,0 +1,75 @@
+[
+	{
+		"link": "https://krita.org/en/",
+		"title": "Krita",
+		"description": "Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.",
+		"sourcecode": "https://cgit.kde.org/calligra.git/",
+		"copying": "https://cgit.kde.org/calligra.git/tree/COPYING",
+		"license": "GNU GPL",
+		"category": "Art, Illustrations and Vector Graphics"
+	},
+	{
+		"link": "https://www.gimp.org/",
+		"title": "Gimp",
+		"description": "GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems.",
+		"sourcecode": "https://git.gnome.org/browse/gimp",
+		"copying": "https://gitlab.gnome.org/GNOME/gimp/blob/master/COPYING",
+		"license": "GNU GPL",
+		"category": "Art, Illustrations and Vector Graphics"
+	},
+	{
+		"link": "https://github.com/LibreSprite/LibreSprite",
+		"title": "LibreSprite",
+		"description": "Animated sprite editor & pixel art tool",
+		"sourcecode": "https://github.com/LibreSprite/LibreSprite",
+		"copying": "https://github.com/LibreSprite/LibreSprite/blob/master/LICENSE.txt",
+		"license": "GNU GPL v2.0",
+		"category": "Art, Illustrations and Vector Graphics"
+	},
+	{
+		"link": "https://inkscape.org/",
+		"title": "Inkscape ",
+		"description": "Whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery, Inkscape is for you!",
+		"sourcecode": "https://gitlab.com/inkscape/inkscape",
+		"copying": "https://gitlab.com/inkscape/inkscape/blob/master/COPYING",
+		"license": "GNP GPL v3 or later",
+		"category": "Art, Illustrations and Vector Graphics"
+	},
+	{
+		"link": "https://www.darktable.org/",
+		"title": "Darktable",
+		"description": "Darktable is an open source photography workflow application and raw developer.",
+		"sourcecode": "http://github.com/darktable-org/darktable",
+		"copying": "https://github.com/darktable-org/darktable/blob/master/LICENSE",
+		"license": "GNU GPL v3.0",
+		"category": "Art, Illustrations and Vector Graphics"
+	},
+	{
+		"link": "https://www.blender.org/",
+		"title": "Blender",
+		"description": "",
+		"sourcecode": "https://developer.blender.org/diffusion/B/",
+		"copying": "https://developer.blender.org/diffusion/B/browse/master/COPYING",
+		"license": "GNU GPL",
+		"category": "3D Graphics"
+	},
+	{
+		"link": "https://www.audacityteam.org/",
+		"title": "Audacity",
+		"description": "Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems.",
+		"sourcecode": "https://github.com/audacity/audacity",
+		"copying": "https://github.com/audacity/audacity/blob/master/LICENSE.txt",
+		"license": "GNU GPL v2.0",
+		"category": "Audio"
+	},
+	{
+		"link": "https://www.libreoffice.org/",
+		"title": "LibreOffice",
+		"category": "Office"
+	},
+	{
+		"link": "https://www.openoffice.org/",
+		"title": "OpenOffice",
+		"category": "Office"
+	}
+]
