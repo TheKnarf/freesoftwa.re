@@ -91,18 +91,6 @@
 		"category": "Art, Illustrations and Vector Graphics"
 	},
 	{
-		"link": "https://www.tinkercad.com/",
-		"title": "Autodesk Tinkercad",
-		"description": "Tinkercad is a free online collection of software tools that help people all over the world think, create and make.",
-		"category": "3D Graphics"
-	},
-	{
-		"link": "http://www.meshmixer.com/",
-		"title": "Autodesk Meshmixer",
-		"description": "Meshmixer is state-of-the-art software for working with triangle meshes.",
-		"category": "3D Graphics"
-	},
-	{
 		"link": "http://brackets.io",
 		"title": "Brackets",
 		"description": "A modern, open source text editor that understands web design.",
