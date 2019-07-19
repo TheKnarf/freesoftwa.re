@@ -71,5 +71,71 @@
 		"link": "https://www.openoffice.org/",
 		"title": "OpenOffice",
 		"category": "Office"
+	},
+	{
+		"link": "https://www.pencil2d.org/",
+		"title": "Pencil2D Animation",
+		"description": "An easy, intuitive tool to make 2D hand-drawn animations.",
+		"sourcecode": "https://github.com/pencil2d/pencil",
+		"copying": "https://github.com/pencil2d/pencil/blob/master/LICENSE.TXT",
+		"license": "GNU GPL v2.0",
+		"category": "Art, Illustrations and Vector Graphics"
+	},
+	{
+		"link": "https://www.piskelapp.com/",
+		"title": "Piskel",
+		"description": "Piskel is a free online editor for animated sprites & pixel art.",
+		"sourcecode": "https://github.com/piskelapp/piskel",
+		"copying": "https://github.com/piskelapp/piskel/blob/master/LICENSE",
+		"license": "Apache License 2.0",
+		"category": "Art, Illustrations and Vector Graphics"
+	},
+	{
+		"link": "https://www.tinkercad.com/",
+		"title": "Autodesk Tinkercad",
+		"description": "Tinkercad is a free online collection of software tools that help people all over the world think, create and make.",
+		"category": "3D Graphics"
+	},
+	{
+		"link": "http://www.meshmixer.com/",
+		"title": "Autodesk Meshmixer",
+		"description": "Meshmixer is state-of-the-art software for working with triangle meshes.",
+		"category": "3D Graphics"
+	},
+	{
+		"link": "http://brackets.io",
+		"title": "Brackets",
+		"description": "A modern, open source text editor that understands web design.",
+		"sourcecode": "https://github.com/adobe/brackets",
+		"copying": "https://github.com/adobe/brackets/blob/master/LICENSE",
+		"license": "MIT",
+		"category": "Software Development"
+	},
+	{
+		"link": "https://www.activestate.com/products/komodo-edit/",
+		"title": "Komodo Edit",
+		"description": "Komodo Edit is a fast and free multi-language code editor. Written in JS, Python, C++ and based on the Mozilla platform.",
+		"sourcecode": "https://github.com/Komodo/KomodoEdit",
+		"copying": "https://github.com/Komodo/KomodoEdit/blob/master/LICENSE.txt",
+		"license": "MPL",
+		"category": "Software Development"
+	},
+	{
+		"link": "https://godotengine.org/",
+		"title": "Godot Engine",
+		"description": "Godot Engine is a free and open source community-driven 2D and 3D game engine",
+		"sourcecode": "https://github.com/godotengine/godot",
+		"copying": "https://github.com/godotengine/godot/blob/master/LICENSE.txt",
+		"license": "MIT",
+		"category": "Game Engine"
+	},
+	{
+		"link": "http://torque3d.org/",
+		"title": "Torque 3D",
+		"description": "The premier open-source game engine.",
+		"sourcecode": "https://github.com/GarageGames/Torque3D",
+		"copying": "https://github.com/GarageGames/Torque3D/blob/development/LICENSE.md",
+		"license": "MIT",
+		"category": "Game Engine"
 	}
 ]
