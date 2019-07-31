@@ -10,7 +10,7 @@ const unique_categories = software
 	.filter((value, index, self) => self.indexOf(value) === index);
 
 const Showcase = ({ link, title, description, sourcecode, copying, license }) =>
-	<li>
+	<div class="showcase">
 		<a href={link}>{ title }</a>
 		<p>{ description }</p>
 		<div class="badge">
@@ -20,7 +20,7 @@ const Showcase = ({ link, title, description, sourcecode, copying, license }) =>
 			<span> license </span>
 			<a href={copying}>{license}</a>
 		</div>
-	</li>;
+	</div>;
 
 const page = () => '<!DOCTYPE html>' +
 <html>
@@ -33,19 +33,18 @@ const page = () => '<!DOCTYPE html>' +
 	<body>
 		<h1> Free software </h1>
 
-		<p> Do you want to add some software to this list? You can contribute at our <a href="https://github.com/theknarf/freesoftwa.re"> git repo </a>. </p>
-		<p> Software on this list have to be <a href="https://www.gnu.org/philosophy/free-sw.en.html"> free software </a> </p>
+		<p> Do you want to add some software to this list? You can contribute at our <a href="https://github.com/theknarf/freesoftwa.re">git repo</a>. </p>
+		<p> Software on this list have to be <a href="https://www.gnu.org/philosophy/free-sw.en.html">free software</a> </p>
 
 		{
 			unique_categories.map( category => <>
 				<h2>{ category }</h2>
-				<ul>
 				{
 					software
 						.filter(showcase => showcase.category === category)
 						.map( showcase => <Showcase {...showcase} />)
+						.join('')
 				}
-				</ul>
 				</>
 			)
 		}

@@ -21,8 +21,13 @@ a {
 	color: #1c4fe8;
 }
 
-li {
+.showcase {
+	background: #efefef;
 	padding: 20px;
+}
+
+.showcase + .showcase {
+	margin-top: 20px;
 }
 
 .badge {
