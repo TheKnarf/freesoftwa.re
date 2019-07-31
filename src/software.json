@@ -125,5 +125,14 @@
 		"copying": "https://github.com/GarageGames/Torque3D/blob/development/LICENSE.md",
 		"license": "MIT",
 		"category": "Game Engine"
+	},
+	{
+		"link": "https://shotcutapp.com/",
+		"title": "Shotcut",
+		"description": "Shotcut is a free, open source, cross-platform video editor.",
+		"sourcecode": "https://github.com/mltframework/shotcut",
+		"copying": "https://github.com/mltframework/shotcut/blob/master/COPYING",
+		"license": "GNU GPL v3.0",
+		"category": "Video Editing"
 	}
 ]
