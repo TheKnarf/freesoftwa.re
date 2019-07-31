@@ -13,9 +13,11 @@ const Showcase = ({ link, title, description, sourcecode, copying, license }) =>
 	<li>
 		<a href={link}>{ title }</a>
 		<p>{ description }</p>
-		<a href={sourcecode}> Source Code </a>
-		<div>
-			<span> License </span>
+		<div class="badge">
+			<a href={sourcecode}> source code </a>
+		</div>
+		<div class="badge">
+			<span> license </span>
 			<a href={copying}>{license}</a>
 		</div>
 	</li>;

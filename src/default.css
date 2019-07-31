@@ -7,16 +7,52 @@ body {
 	line-height: 1.5;
 	color: #666;
 }
+
 h1, h2, strong {
 	color: #333;
 }
+
 h2 {
 	margin-top: 1em;
 	padding-top: 1em;
 }
+
 a {
 	color: #1c4fe8;
 }
+
 li {
 	padding: 20px;
+}
+
+.badge {
+	display: inline-block;
+}
+
+.badge > * {
+	color: white;
+	border-radius: 5px;
+	padding: 5px 10px;
+	display: inline-block;
+	background: rgb(61,61,181);
+	background: linear-gradient(0deg, rgba(61,61,181,1) 0%, rgba(115,115,217,1) 100%);
+}
+
+.badge + .badge {
+	margin-left: 20px;
+}
+
+.badge a {
+	color: white;
+	text-decoration: none;
+}
+
+.badge span {
+	background: rgb(23,23,68);
+	background: linear-gradient(0deg, rgba(23,23,68,1) 0%, rgba(45,45,79,1) 100%);
+	border-radius: 5px 0 0 5px;
+}
+
+.badge span + a {
+	border-radius: 0px 5px 5px 0;
 }
