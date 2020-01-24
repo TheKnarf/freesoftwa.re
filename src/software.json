@@ -47,10 +47,28 @@
 	{
 		"link": "https://www.blender.org/",
 		"title": "Blender",
-		"description": "",
+		"description": "Blender is the free and open source 3D creation suite.",
 		"sourcecode": "https://developer.blender.org/diffusion/B/",
 		"copying": "https://developer.blender.org/diffusion/B/browse/master/COPYING",
 		"license": "GNU GPL",
+		"category": "3D Graphics"
+	},
+	{
+		"link": "https://www.freecadweb.org/",
+		"title": "FreeCAD",
+		"description": "Your own 3D parametric modeler",
+		"sourcecode": "https://github.com/FreeCAD/FreeCAD",
+		"copying": "https://github.com/FreeCAD/FreeCAD/blob/master/LICENSE",
+		"license": "GNU GPL v2.0",
+		"category": "3D Graphics"
+	},
+	{
+		"link": "https://www.openscad.org/",
+		"title": "OpenSCAD",
+		"description": "OpenSCAD is software for creating solid 3D CAD objects.",
+		"sourcecode": "https://github.com/openscad/openscad/",
+		"copying": "https://github.com/openscad/openscad/blob/master/COPYING",
+		"license": "GNU GPL v2.0 (with special exception)",
 		"category": "3D Graphics"
 	},
 	{
@@ -60,7 +78,15 @@
 		"sourcecode": "https://github.com/audacity/audacity",
 		"copying": "https://github.com/audacity/audacity/blob/master/LICENSE.txt",
 		"license": "GNU GPL v2.0",
-		"category": "Audio"
+		"category": "Audio & Music"
+	},
+	{
+		"link": "https://musescore.org/en",
+		"title": "musescore",
+		"description": "Create, play and print beautiful sheet music",
+		"copying": "https://github.com/musescore/MuseScore/blob/master/LICENSE.GPL",
+		"license": "GNU GPL v2.0",
+		"category": "Audio & Music"
 	},
 	{
 		"link": "https://www.libreoffice.org/",
@@ -71,6 +97,14 @@
 		"link": "https://www.openoffice.org/",
 		"title": "OpenOffice",
 		"category": "Office"
+	},
+	{
+		"link": "https://calibre-ebook.com/",
+		"title": "Calibre",
+		"description": "Calibre is the one stop solution to all your e-book needs",
+		"copying": "https://github.com/kovidgoyal/calibre/blob/master/LICENSE",
+		"license": "GNU GPL V3.0",
+		"category": "E-books"
 	},
 	{
 		"link": "https://www.pencil2d.org/",
@@ -133,6 +167,42 @@
 		"sourcecode": "https://github.com/mltframework/shotcut",
 		"copying": "https://github.com/mltframework/shotcut/blob/master/COPYING",
 		"license": "GNU GPL v3.0",
-		"category": "Video Editing"
+		"category": "Video & Streaming"
+	},
+	{
+		"link": "https://obsproject.com/",
+		"title": "OBS Studio",
+		"description": "Free and open source software for video recording and live streaming.",
+		"sourcecode": "https://github.com/obsproject/obs-studio",
+		"copying": "https://github.com/obsproject/obs-studio/blob/master/COPYING",
+		"license": "GNU GPL v2.0",
+		"category": "Video & Streaming"
+	},
+	{
+		"link": "https://www.videolan.org/vlc/",
+		"title": "VLC Media Player",
+		"description": "VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.",
+		"sourcecode": "https://github.com/videolan/vlc",
+		"copying": "https://github.com/videolan/vlc/blob/master/COPYING",
+		"license": "GNU GPL v2.0",
+		"category": "Video & Streaming"
+	},
+	{
+		"link": "https://mpv.io/",
+		"title": "mpv",
+		"description": "a free, open source, and cross-platform media player",
+		"sourcecode": "https://github.com/mpv-player/mpv",
+		"copying": "https://github.com/mpv-player/mpv/blob/master/LICENSE.GPL",
+		"license": "GNU GPL v2.0",
+		"category": "Video & Streaming"
+	},
+	{
+		"link": "https://handbrake.fr/",
+		"title": "HandBrake",
+		"description": "HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.",
+		"sourcecode": "https://github.com/HandBrake/HandBrake",
+		"copying": "https://github.com/HandBrake/HandBrake/blob/master/COPYING",
+		"license": "GNU GPL v2.0",
+		"category": "Video & Streaming"
 	}
 ]
